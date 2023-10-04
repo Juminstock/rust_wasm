@@ -48,4 +48,3 @@ index.html
     
 </body>
 </html>
-```
